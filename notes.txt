@@ -1,2 +1,3 @@
 git is a distributed version control work
 this is an additional change for the second commit.
+Summary :Git makes version control easy and organized.
